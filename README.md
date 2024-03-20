@@ -11,7 +11,8 @@ Hay muchas, este pequeño desarrollo solo es la base para una mayor automatizaci
 
 ## Forma de instalación
 1. Ejecutar `npm install` para traer todas las dependencias.
-2. Si es la primera vez deberás visualizar en la consola el código QR para poder sincronizar tu WhatsApp Web del cual se enviarán todos los mensajes.
+2. Configura el usuario y password del Innova Family copiando `.env.sample` en `.env`
+3. Si es la primera vez deberás visualizar en la consola el código QR para poder sincronizar tu WhatsApp Web del cual se enviarán todos los mensajes.
 
 ## TODO
 Está pendiente el poder crear un cron que ejecute cada cierto periodo de tiempo el chequeo de mensajes nuevos.
@@ -31,7 +32,8 @@ There are many, this small development is just the base for greater automation s
 
 ## Installation method
 1. Run `npm install` to bring all dependencies.
-2. If it's your first time, you should view the QR code in the console to sync your WhatsApp Web from which all messages will be sent.
+2. Config user and password of Innova Family copying `.env.sample` to `.env`
+3. If it's your first time, you should view the QR code in the console to sync your WhatsApp Web from which all messages will be sent.
 
 ## TODO
 It is pending to be able to create a cron that executes the check for new messages every certain period of time.
